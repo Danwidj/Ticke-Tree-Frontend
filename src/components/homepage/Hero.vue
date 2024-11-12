@@ -242,7 +242,7 @@ onMounted(() => {
 }
 
 .position-absolute.w-100.mt-2.bg-white.rounded.shadow-lg.overflow-hidden.dark{
-  background-color: black;
+  color: black;
 }
 
 </style>
