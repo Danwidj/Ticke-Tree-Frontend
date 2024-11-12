@@ -14,7 +14,6 @@
 	<span>i</span>
 	<span>n</span>
 	<span>g</span>
-	<span>s</span>
 </span>
       </template>
     </Suspense>
