@@ -23,7 +23,7 @@
       <div class="container mt-4 text-center event-details">
         <h2 class="event-title">{{ event?.eventName || "Event Title" }}</h2>
         <div class="d-block justify-content-center gap-5 text-muted">
-          <p class="h5">
+          <p class="h5"> 
             <i class="fa fa-calendar"></i>
             {{ event?.date || "November 30, 2024" }}
           </p>
